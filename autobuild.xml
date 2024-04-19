@@ -6,11 +6,11 @@
       <key>canonical_repo</key>
       <string>https://github.com/secondlife/3p-mikktspace</string>
       <key>copyright</key>
-      <string>Copyright (C) 2011 by Morten S. Mikkelsen</string>
+      <string>Copyright (C) 2011 by Morten S. Mikkelsen, Copyright (C) 2022 Blender Authors</string>
       <key>description</key>
       <string>Mikktspace Tangent Generator</string>
       <key>license</key>
-      <string>Copyright (C) 2011 by Morten S. Mikkelsen</string>
+      <string>Apache 2.0</string>
       <key>license_file</key>
       <string>mikktspace.txt</string>
       <key>name</key>
